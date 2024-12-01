@@ -1,0 +1,59 @@
+{
+
+    "manifest_version": 3,
+    
+    "name": "Athletic.net Data Extractor",
+    
+    "version": "1.0",
+    
+    "description": "Extract meet results from athletic.net and export the data.",
+    
+    "permissions": [
+    
+    "activeTab",
+    
+    "scripting",
+    
+    "clipboardWrite"
+    
+    ],
+    
+    "content_scripts": [
+    
+    {
+    
+    "matches": ["*://*.athletic.net/*"],
+    
+    "js": ["contentScript.js"]
+    
+    }
+    
+    ],
+    
+    "action": {
+    
+    "default_popup": "popup.html",
+    
+    "default_icon": {
+    
+    "16": "logo.png",
+    
+    "48": "logo.png",
+    
+    "128": "logo.png"
+    
+    }
+    
+    },
+    
+    "icons": {
+    
+    "16": "logo.png",
+    
+    "48": "logo.png",
+    
+    "128": "logo.png"
+    
+    }
+    
+}
