@@ -6,7 +6,8 @@ Easily copy or download race result data from athletic.net at the click of a but
 
 ### Automatic
 
-[![Go to extension on chrome web store.](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png)]
+[![Go to extension on chrome web store.](https://i.ibb.co/cC5GqgZ/HRs9-MPufa1-J1h5gl-Nhut.png)](https://chromewebstore.google.com/detail/bay-clock/enlcjchkdmmnjlmeagbdeajenmneleid)
+
 ### Manual
 
 1. Download this code and unzip the folder
